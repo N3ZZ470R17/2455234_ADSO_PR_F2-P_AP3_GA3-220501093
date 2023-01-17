@@ -65,7 +65,7 @@ class lcldd {
     }
 
     oprtn() {
-        console.log('Tiquetes reservados para las siguientes tribunas: \nTribuna Occidental: $(this.cntdrTrbnOcc) \nTribuna Oriental: $(this.cntdrTrbnOrn)')
+        console.log('Tiquetes reservados para las siguientes tribunas: \nTribuna Occidental: ´$(this.cntdrTrbnOcc)´ \nTribuna Oriental: ´$(this.cntdrTrbnOrn)´')
     }
 
 }
